@@ -1,0 +1,10 @@
+INSERT INTO genre (genre_name) VALUES ('drama');
+INSERT INTO genre (genre_name) VALUES ('fable');
+INSERT INTO genre (genre_name) VALUES ('fairy tale');
+INSERT INTO genre (genre_name) VALUES ('fantasy');
+INSERT INTO genre (genre_name) VALUES ('science fiction');
+INSERT INTO genre (genre_name) VALUES ('folklore');
+INSERT INTO genre (genre_name) VALUES ('horror');
+INSERT INTO genre (genre_name) VALUES ('humor');
+INSERT INTO genre (genre_name) VALUES ('legend');
+INSERT INTO genre (genre_name) VALUES ('mythology');
